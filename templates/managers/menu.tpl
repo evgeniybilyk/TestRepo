@@ -1,0 +1,1 @@
+<a href="admin.php?page=hotel">Список комнат</a> | <a href="admin.php?page=orders">Забронированные номера</a> | <a href="admin.php?page=logout">Выход</a><br><br>
